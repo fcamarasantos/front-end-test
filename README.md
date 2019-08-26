@@ -4,7 +4,7 @@
   sem perder a solidez de nossas raízes."*
 Conheça: www.fcamara.com.br
 
-## Teste para vaga de Desenvolvedor Front-end Java
+## Teste para vaga de Desenvolvedor Front-end
 Desenvolver páginas seguindo um modelo de design e obter dados a partir de uma API.
 
 ## Funcionalidades
